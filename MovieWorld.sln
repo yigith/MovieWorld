@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieWorld", "MovieWorld\MovieWorld.csproj", "{79BB1468-8A0F-4AAB-94EE-34DA1E52CAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BB1468-8A0F-4AAB-94EE-34DA1E52CAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BB1468-8A0F-4AAB-94EE-34DA1E52CAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BB1468-8A0F-4AAB-94EE-34DA1E52CAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BB1468-8A0F-4AAB-94EE-34DA1E52CAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {371833D8-FBB1-4546-98AB-1B0ABBDD73BE}
+	EndGlobalSection
+EndGlobal
